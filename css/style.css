@@ -1,0 +1,23 @@
+body{
+  width: 75%;
+  margin: auto;
+}
+
+.container{
+  width: 1000px;
+  margin: auto;
+}
+
+header{
+  width: 100%;
+  height: 100px;
+  background-image: url("../img/pattern.png");
+  background-color:#4ea0ff ;
+  background-size: 400px;
+}
+
+div header img{
+  width: 150px;
+  margin-left: 5px;
+  margin-top: 60px;
+}
