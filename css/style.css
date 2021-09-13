@@ -1,10 +1,10 @@
 body{
-  width: 75%;
+  width: 1050px;
   margin: auto;
 }
 
 .container{
-  width: 1000px;
+  width: 1050px;
   margin: auto;
 }
 
@@ -20,4 +20,20 @@ div header img{
   width: 150px;
   margin-left: 5px;
   margin-top: 60px;
+}
+
+.autore{
+  color: gray;
+}
+
+.colore-the-booleaner{
+  color: #4ea0ff;
+}
+
+.descrizione-foto{
+  font-size: 10px;
+}
+
+.sfondo-scritta{
+  background-color: yellow;
 }
